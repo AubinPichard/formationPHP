@@ -1,0 +1,6 @@
+git add -A
+git status
+git commit -m "commentaire"
+git remote add origin https://github.com/AubinPichard/"nom_du_dossier".git
+git push origin master
+git clone https://github.com/AubinPichard/formationPHP.git
